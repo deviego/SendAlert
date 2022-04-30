@@ -8,15 +8,24 @@
 #
 
 <h3> Technology used</h3>
+
  - JavaScript
- - NodeJS
- - SMTP for Google Gmail
- - Yarn
- modules:
- - date-fns: "^2.28.0",
- - dotenv: "^16.0.0",
- - nodemailer: "^6.7.4"
- - fs/promisses
+
+- NodeJS
+
+- SMTP for Google Gmail
+
+- Yarn
+
+modules:
+
+- date-fns: "^2.28.0",
+
+- dotenv: "^16.0.0",
+
+- nodemailer: "^6.7.4"
+
+- fs/promisses
 
 #
 
