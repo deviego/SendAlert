@@ -6,6 +6,17 @@
 <p>Sends a message to the registered email warning on the birthday of a person who is in the json</p >
 
 #
+ 
+ > to use this code you will need create SMTP with your informations
+ - exempele: 
+  <code> module.exports = {
+      host: "smtp.gmail.com",
+      port: 587,
+      user: "deviego@gmail.com",
+      pass: "*********",
+    };</code>
+    
+#
 
 <h3> Technology used</h3>
 
