@@ -1,5 +1,3 @@
-## Alert Birthday API 
-#
 
 <h1 align="center"><a href="https://nodejs.org/en/docs/">🔗 Node</a></h1><p align="center">🚀 Api for alert in email when you have a important date</p>
 
