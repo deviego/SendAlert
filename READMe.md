@@ -1,36 +1,52 @@
 ## Alert Birthday API 
 #
-<h2> This API is for alert </h2>
-<p>This api is a function that alerts when the person is having a birthday
-</p>
-<p>Sends a message to the registered email warning on the birthday of a person who is in the json</p >
+
+<h1 align="center"><a href="https://nodejs.org/en/docs/">🔗 Node</a></h1><p align="center">🚀 Api for alert in email when you have a important date</p>
 
 #
  
  > to use this code you will need create SMTP with your informations
  - exempele: 
-  <code> module.exports = {
+  <code> 
+      module.exports = {
       host: "smtp.gmail.com",
       port: 587,
       user: "deviego@gmail.com",
-      pass: "*********",
+      pass: "your passward",
     };</code>
     
  > To see only the part sanding e-mails visit my repository [Tranporter Gmail](https://github.com/deviego/TransporterGmail)
     
 #
 
-<h3> Technology used</h3>
+<p align="center"><a href="#objetivo">Objetivo</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#modules">Modules</a> • 
+ <a href="[https://github.com/animavita/animavita](https://github.com/deviego/deviego)">Autor</a>
 
- - JavaScript
+<h3 id="objetivo">objective</h3>
+<p> purpose of this api is to send an email alerting the registered person that the date she put for some goal has arrived,
+ it may be:</p>
+ 
+ - [x] Birthday
+- [ ] Important commitment
+- [ ] Meeting
+- [ ] Important date
+- [ ] Among others
 
-- NodeJS
+#
 
-- SMTP for Google Gmail
+<h3 id="tecnologias"> Technology used</h3>
 
-- Yarn
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [Node.js](https://nodejs.org/en/)
+- [SMTP for Google](https://github.com/deviego/TransporterGmail)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/)
 
-modules:
+
+ #
+
+<h3 id="modules">Modules</h3>
 
 - date-fns: "^2.28.0",
 
