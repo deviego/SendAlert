@@ -20,7 +20,7 @@
 <p align="center"><a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#modules">Modules</a> • 
- <a href="[https://github.com/animavita/animavita](https://github.com/deviego/deviego)">Autor</a>
+ <a href="https://github.com/animavita/animavita](https://github.com/deviego/deviego)">Autor</a>
 
 <h3 id="objetivo">objective</h3>
 <p> purpose of this api is to send an email alerting the registered person that the date she put for some goal has arrived,
